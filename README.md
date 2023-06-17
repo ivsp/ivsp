@@ -19,8 +19,18 @@ Here are some ideas to get you started:
 Also, I am a cheerful, fun person, meticulous in my tasks and full of restlessness who loves challenges.
 
 I know these programnming languages:
-![Icono de Javascript](https://www.citypng.com/public/uploads/preview/js-javascript-round-logo-icon-png-11662226392lsrrajcm0y.png)
-![Icono de Typescript](https://cdn-icons-png.flaticon.com/512/5968/5968326.png)
+<image
+  src="https://www.citypng.com/public/uploads/preview/js-javascript-round-logo-icon-png-11662226392lsrrajcm0y.png"
+  alt="Icono de Javascript"
+       width="200"
+       heigth="200"
+  >
+  <image
+  src="https://cdn-icons-png.flaticon.com/512/5968/5968326.png"
+  alt="Icono de Typescript"
+       width="200"
+       heigth="200"
+  >
 
 I have use these frameworks for the frontend:
 ![Icono de React]([https://picsum.photos/800/600](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROHv_WahJRSQ_SSyRYned9VwGZoZyx5kgJQQ&usqp=CAU))
@@ -33,7 +43,7 @@ I use these stack for the backend:
 ![Icono de MongoDB](https://cyclr.com/wp-content/uploads/2022/03/ext-553.png)
 
 I work with the following CMS:
-![Icono de Strapi]([https://cyclr.com/wp-content/uploads/2022/03/ext-553.png])
+![Icono de Strapi](https://www.cmscritic.com/wp-content/uploads/2021/04/JPG.logo_.purple.white_-1.jpg)
 ![Icono de Contentfull](https://assets.stickpng.com/images/62c714c8b44be1961554a6d2.png)
 
 
