@@ -22,13 +22,13 @@ I know these programnming languages:
 <image
   src="https://www.citypng.com/public/uploads/preview/js-javascript-round-logo-icon-png-11662226392lsrrajcm0y.png"
   alt="Icono de Javascript"
-  width="200"
-  heigth="200">
+  width="100"
+  heigth="100">
   <image
   src="https://cdn-icons-png.flaticon.com/512/5968/5968326.png"
   alt="Icono de Typescript"
-  width="200"
-  heigth="200">
+  width="100"
+  heigth="100">
 
 I have use these frameworks for the frontend:
 ![Icono de React]([https://picsum.photos/800/600](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROHv_WahJRSQ_SSyRYned9VwGZoZyx5kgJQQ&usqp=CAU))
