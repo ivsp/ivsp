@@ -43,7 +43,7 @@ I have use these frameworks for the frontend:
  <image
   src="https://miro.medium.com/v2/resize:fit:1000/1*KDMx1YspSrBcFJG-NDZgDg.png"
   alt="Icono de Next"
-  width="100"
+  width="150"
   heigth="150"
   border-radius="50">
  <image
