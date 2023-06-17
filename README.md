@@ -33,18 +33,58 @@ I know these programnming languages:
   heigth="100">
 
 I have use these frameworks for the frontend:
-![Icono de React]([https://picsum.photos/800/600](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROHv_WahJRSQ_SSyRYned9VwGZoZyx5kgJQQ&usqp=CAU))
-![Icono de Next](https://miro.medium.com/v2/resize:fit:1000/1*KDMx1YspSrBcFJG-NDZgDg.png)
-![Icono de Gatsby](https://pbs.twimg.com/profile_images/1135999619781939201/HZ-pCQcP_400x400.png)
+ <image
+  src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"
+  alt="Icono de React"
+  width="150"
+  heigth="200"
+  border-radius="50">
+ <image
+  src="https://miro.medium.com/v2/resize:fit:1000/1*KDMx1YspSrBcFJG-NDZgDg.png"
+  alt="Icono de Next"
+  width="150"
+  heigth="200"
+  border-radius="50">
+ <image
+  src="https://pbs.twimg.com/profile_images/1135999619781939201/HZ-pCQcP_400x400.png"
+  alt="Icono de Gatsby"
+  width="150"
+  heigth="200"
+  border-radius="50">
 
 I use these stack for the backend:
-![Icono de NodeJs](https://www.svgrepo.com/download/376337/node-js.svg)
-![Icono de ExpressJs](https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg)
-![Icono de MongoDB](https://cyclr.com/wp-content/uploads/2022/03/ext-553.png)
+<image
+  src="https://www.svgrepo.com/download/376337/node-js.svg"
+  alt="Icono de NodeJs"
+  width="150"
+  heigth="200"
+  border-radius="50">
+<image
+  src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg"
+  alt="Icono de ExpressJs"
+  width="150"
+  heigth="200"
+  border-radius="50">
+<image
+  src="https://cyclr.com/wp-content/uploads/2022/03/ext-553.png"
+  alt="Icono de MongoDB"
+  width="150"
+  heigth="200"
+  border-radius="50">
 
 I work with the following CMS:
-![Icono de Strapi](https://www.cmscritic.com/wp-content/uploads/2021/04/JPG.logo_.purple.white_-1.jpg)
-![Icono de Contentfull](https://assets.stickpng.com/images/62c714c8b44be1961554a6d2.png)
+<image
+  src="https://www.cmscritic.com/wp-content/uploads/2021/04/JPG.logo_.purple.white_-1.jpg"
+  alt="Icono de Strapi"
+  width="150"
+  heigth="200"
+  border-radius="50">
+<image
+  src="https://assets.stickpng.com/images/62c714c8b44be1961554a6d2.png"
+  alt="Icono de Contentfull"
+  width="150"
+  heigth="200"
+  border-radius="50">
 
 
 
