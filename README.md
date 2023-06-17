@@ -23,8 +23,8 @@ I know these programnming languages:
   <image
   src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Emblem.png"
   alt="Icono de Javascript"
-  width="100"
-  heigth="100"
+  width="150"
+  heigth="200"
   border-radius="50">
   <image
   src="https://cdn-icons-png.flaticon.com/512/5968/5968326.png"
