@@ -19,11 +19,14 @@ Here are some ideas to get you started:
 Also, I am a cheerful, fun person, meticulous in my tasks and full of restlessness who loves challenges.
 
 I know these programnming languages:
-<image
+
+<kbd>
+  <image
   src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"
   alt="Icono de Javascript"
   width="100"
   heigth="100">
+</kbd>
   <image
   src="https://cdn-icons-png.flaticon.com/512/5968/5968326.png"
   alt="Icono de Typescript"
