@@ -38,7 +38,7 @@ I have use these frameworks for the frontend:
   src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"
   alt="Icono de React"
   width="150"
-  heigth="200"
+  heigth="150"
   border-radius="50">
  <image
   src="https://miro.medium.com/v2/resize:fit:1000/1*KDMx1YspSrBcFJG-NDZgDg.png"
@@ -50,7 +50,7 @@ I have use these frameworks for the frontend:
   src="https://pbs.twimg.com/profile_images/1135999619781939201/HZ-pCQcP_400x400.png"
   alt="Icono de Gatsby"
   width="150"
-  heigth="200"
+  heigth="150"
   border-radius="50">
 
 I use these stack for the backend:
