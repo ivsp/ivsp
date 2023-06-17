@@ -20,7 +20,7 @@ Also, I am a cheerful, fun person, meticulous in my tasks and full of restlessne
 
 I know these programnming languages:
 <image
-  src="https://www.citypng.com/public/uploads/preview/js-javascript-round-logo-icon-png-11662226392lsrrajcm0y.png"
+  src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"
   alt="Icono de Javascript"
   width="100"
   heigth="100">
