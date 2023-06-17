@@ -79,7 +79,7 @@ I work with the following CMS:
 <image
   src="https://www.cmscritic.com/wp-content/uploads/2021/04/JPG.logo_.purple.white_-1.jpg"
   alt="Icono de Strapi"
-  width="170"
+  width="165"
   heigth="150"
   border-radius="50">
 <image
