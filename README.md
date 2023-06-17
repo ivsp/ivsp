@@ -33,6 +33,7 @@ I know these programnming languages:
   heigth="100">
 
 I have use these frameworks for the frontend:
+    
  <image
   src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"
   alt="Icono de React"
@@ -53,6 +54,7 @@ I have use these frameworks for the frontend:
   border-radius="50">
 
 I use these stack for the backend:
+   
 <image
   src="https://www.svgrepo.com/download/376337/node-js.svg"
   alt="Icono de NodeJs"
@@ -73,6 +75,7 @@ I use these stack for the backend:
   border-radius="50">
 
 I work with the following CMS:
+  
 <image
   src="https://www.cmscritic.com/wp-content/uploads/2021/04/JPG.logo_.purple.white_-1.jpg"
   alt="Icono de Strapi"
