@@ -79,8 +79,8 @@ I work with the following CMS:
 <image
   src="https://www.cmscritic.com/wp-content/uploads/2021/04/JPG.logo_.purple.white_-1.jpg"
   alt="Icono de Strapi"
-  width="100"
-  heigth="100"
+  width="170"
+  heigth="150"
   border-radius="50">
 <image
   src="https://storage.googleapis.com/datanyze-data/technologies/1a4ac28489aa1af54a7ff3a523e19cd97cd0a3ac.png"
