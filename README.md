@@ -32,7 +32,7 @@ I know these programnming languages:
   width="100"
   heigth="100">
 
-I have use these frameworks for the frontend:
+I use these frameworks for the frontend:
     
  <image
   src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"
