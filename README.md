@@ -58,20 +58,20 @@ I use these stack for the backend:
 <image
   src="https://www.svgrepo.com/download/376337/node-js.svg"
   alt="Icono de NodeJs"
-  width="150"
-  heigth="200"
+  width="100"
+  heigth="100"
   border-radius="50">
 <image
   src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg"
   alt="Icono de ExpressJs"
-  width="150"
-  heigth="200"
+  width="100"
+  heigth="100"
   border-radius="50">
 <image
   src="https://cyclr.com/wp-content/uploads/2022/03/ext-553.png"
   alt="Icono de MongoDB"
-  width="150"
-  heigth="200"
+  width="100"
+  heigth="100"
   border-radius="50">
 
 I work with the following CMS:
@@ -79,14 +79,14 @@ I work with the following CMS:
 <image
   src="https://www.cmscritic.com/wp-content/uploads/2021/04/JPG.logo_.purple.white_-1.jpg"
   alt="Icono de Strapi"
-  width="150"
-  heigth="200"
+  width="100"
+  heigth="100"
   border-radius="50">
 <image
-  src="https://assets.stickpng.com/images/62c714c8b44be1961554a6d2.png"
+  src="https://storage.googleapis.com/datanyze-data/technologies/1a4ac28489aa1af54a7ff3a523e19cd97cd0a3ac.png"
   alt="Icono de Contentfull"
-  width="150"
-  heigth="200"
+  width="100"
+  heigth="100"
   border-radius="50">
 
 
