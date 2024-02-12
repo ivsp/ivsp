@@ -83,7 +83,7 @@ I work with the following CMS:
   heigth="150"
   border-radius="50">
 <image
-  src="https://storage.googleapis.com/datanyze-data/technologies/1a4ac28489aa1af54a7ff3a523e19cd97cd0a3ac.png"
+  src="https://assets.stickpng.com/thumbs/631205bfb661e15cdf54dedd.png"
   alt="Icono de Contentfull"
   width="100"
   heigth="100"
