@@ -83,7 +83,7 @@ I work with the following CMS:
   heigth="150"
   border-radius="50">
 <image
-  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fes%2Fimg%2Ficonos-logotipos-emojis%2Fcompanias-technologicas%2Flogotipo-redondo-de-contentful&psig=AOvVaw0YUnLBG4WavSKSSxBgMWLL&ust=1707807164207000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjM5s2bpYQDFQAAAAAdAAAAABAg"
+  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTicLcrBkFv9NGy4Q10FnDnmd0EbY6j22-sD_qObwjcyM_r4n4B2Yr8Buc88yLJAhs6URg&usqp=CAU"
   alt="Icono de Contentfull"
   width="100"
   heigth="100"
