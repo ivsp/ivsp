@@ -77,13 +77,13 @@ I use these stack for the backend:
 I work with the following CMS:
   
 <image
-  src="https://www.cmscritic.com/wp-content/uploads/2021/04/JPG.logo_.purple.white_-1.jpg"
+  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvlT_Om6hytMsctIVhKLFGB_NwHPTPr-uQEPDoK5QgpCkF2KGpuw_2q6vA9GYK7jZV0T4&usqp=CAU"
   alt="Icono de Strapi"
   width="160"
   heigth="150"
   border-radius="50">
 <image
-  src="https://assets.stickpng.com/thumbs/631205bfb661e15cdf54dedd.png"
+  src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets.stickpng.com%2Fimages%2F62c714c8b44be1961554a6d2.png&tbnid=yl_nLouZi_wsFM&vet=10CAIQxiAoAGoXChMI-MzmzZulhAMVAAAAAB0AAAAAEBs..i&imgrefurl=https%3A%2F%2Fwww.stickpng.com%2Fes%2Fimg%2Ficonos-logotipos-emojis%2Flogotipos-de-radio%2Flogotipo-completo-de-contentful&docid=GYfgsQtp698YgM&w=800&h=800&itg=1&q=icono%20contentfull%20png&ved=0CAIQxiAoAGoXChMI-MzmzZulhAMVAAAAAB0AAAAAEBs"
   alt="Icono de Contentfull"
   width="100"
   heigth="100"
