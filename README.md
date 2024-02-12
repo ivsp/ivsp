@@ -79,14 +79,14 @@ I work with the following CMS:
 <image
   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvlT_Om6hytMsctIVhKLFGB_NwHPTPr-uQEPDoK5QgpCkF2KGpuw_2q6vA9GYK7jZV0T4&usqp=CAU"
   alt="Icono de Strapi"
-  width="160"
-  heigth="150"
+  width="110"
+  heigth="100"
   border-radius="50">
 <image
   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTicLcrBkFv9NGy4Q10FnDnmd0EbY6j22-sD_qObwjcyM_r4n4B2Yr8Buc88yLJAhs6URg&usqp=CAU"
   alt="Icono de Contentfull"
-  width="160"
-  heigth="150"
+  width="110"
+  heigth="100"
   border-radius="50">
 
 
